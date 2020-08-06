@@ -1,11 +1,17 @@
 # Project : COVID-19 Face Mask Detector
 Face Mask Detection system built with OpenCV, Keras/TensorFlow using Deep Learning in order to detect face masks in static images and videos as well as in real-time video streams
 
-# Motivation
+## Motivation
 The COVID-19 mask detector we’re building here today could potentially be used to help ensure your safety and the safety of others.
 
-# Screenshots
+## Screenshots
 <p align="center"><img src="https://github.com/samjung68/Face-Mask-Detection/blob/master/capture_result.png" width="700" height="400"></p>
+
+## Tech/frame used
+
+- [OpenCV](https://opencv.org/)
+- [Keras](https://keras.io/)
+- [TensorFlow](https://www.tensorflow.org/)
 
 OS X & 리눅스:
 
