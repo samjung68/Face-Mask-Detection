@@ -17,6 +17,9 @@ The COVID-19 mask detector we’re building here today could potentially be used
 - [TensorFlow](https://www.tensorflow.org/)
 
 ## Dataset
+
+The dataset used can be downloaded here - [Click to Download](https://drive.google.com/drive/folders/1I8FtAT-Ozpk_wg813R1z5C80oth6Jtwt?usp=sharing)
+
 The dataset we’ll be using here was created by PyImageSearch reader [Prajna Bhandary](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6655711815361761280/).
 
 This dataset consists of __615 images__ belonging to two classes:
