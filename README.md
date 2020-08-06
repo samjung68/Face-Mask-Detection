@@ -1,4 +1,4 @@
-# Machine-Learning
+# COVID-19 Face Mask Detector
 
 1. 프로젝트 내용(이미지/로고)
 2. 설치방법
