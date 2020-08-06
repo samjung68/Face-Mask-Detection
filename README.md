@@ -24,7 +24,7 @@ All the dependencies and required libraries are included in the file <code>requi
 
 The dataset used can be downloaded here - [Click to Download](https://drive.google.com/drive/folders/1I8FtAT-Ozpk_wg813R1z5C80oth6Jtwt?usp=sharing)
 
-The dataset we’ll be using here was created by PyImageSearch reader [Prajna Bhandary](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6655711815361761280/).
+The dataset we’ll be using here was created by PyImageSearch reader [Prajna Bhandary](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6655711815361761280/) and [data augmentation](https://www.pyimagesearch.com/2019/07/08/keras-imagedatagenerator-and-data-augmentation/) was applied to increase the generalizability of the model.
 
 This dataset consists of __615 images__ belonging to two classes:
 *	__with_mask: 218 images__
