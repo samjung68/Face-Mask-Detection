@@ -59,5 +59,5 @@ Made by [Jae Hwa Jung, Samuel](https://github.com/samjung68) (samjung00@naver.co
 * [http://datahacker.rs/001-how-to-read-a-video-and-access-a-webcam-with-opencv-in-python/](http://datahacker.rs/001-how-to-read-a-video-and-access-a-webcam-with-opencv-in-python/)
 
 ## License
-MIT
+MIT © [Samuel Jung](https://github.com/samjung68/Face-Mask-Detection/blob/master/LICENSE)
 
