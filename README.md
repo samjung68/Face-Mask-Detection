@@ -17,6 +17,7 @@ The COVID-19 mask detector we’re building here today could potentially be used
 - [OpenCV](https://opencv.org/)
 - [Keras](https://keras.io/)
 - [TensorFlow](https://www.tensorflow.org/)
+- [Haar Feature-Based Cascade Classifiers](https://medium.com/analytics-vidhya/a-look-into-opencv-haar-feature-based-cascade-classifiers-ac9bb30a44a7)
 
 ## :key: Prerequisites
 
