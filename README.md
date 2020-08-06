@@ -50,7 +50,7 @@ $ python3 mask_detector_webcam_py.py --image images/pic1.jpeg
 $ python3 mask_detector_webcam_py 
 ```
 ## Results
-
+- Our model gave 91% accuracy for Face Mask Detection
 - We got the following accuracy/loss training curve plot
 ![](https://github.com/samjung68/Face-Mask-Detection/blob/master/loss_graph.png)
 
