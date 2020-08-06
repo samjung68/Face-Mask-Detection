@@ -18,7 +18,7 @@ The COVID-19 mask detector we’re building here today could potentially be used
 
 ## :key: Prerequisites
 
-All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/requirements.txt)
+All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/samjung68/Face-Mask-Detection/blob/master/requirements.txt)
 
 ## Dataset
 
