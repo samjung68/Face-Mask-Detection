@@ -13,7 +13,7 @@ The COVID-19 mask detector we’re building here today could potentially be used
 - [Keras](https://keras.io/)
 - [TensorFlow](https://www.tensorflow.org/)
 
-## :bulb: Working
+## Working
 
 1. Open terminal. Go into the cloned project directory folder and type the following command:
 ```
@@ -29,7 +29,7 @@ $ python3 detect_mask_image.py --image images/pic1.jpeg
 ```
 $ python3 detect_mask_video.py 
 ```
-## :key: Results
+## Results
 
 #### Our model gave 93% accuracy for Face Mask Detection after training via <code>tensorflow-gpu==2.0.0</code>
 
@@ -38,7 +38,7 @@ $ python3 detect_mask_video.py
 #### We got the following accuracy/loss training curve plot
 ![](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/plot.png)
 
-## :handshake: Contribution
+## Contribution
 Feel free to **file a new issue** with a respective title and description on the the [Face-Mask-Detection](https://github.com/chandrikadeb7/Face-Mask-Detection/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
 
 ## Owner
