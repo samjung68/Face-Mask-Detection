@@ -27,17 +27,17 @@ This dataset consists of __615 images__ belonging to two classes:
 
 1. Open terminal. Go into the cloned project directory folder and type the following command:
 ```
-$ python3 train_mask_detector.py --dataset dataset
+$ python3 mask_detector_webcam_py.py --dataset dataset
 ```
 
 2. Now detect the face masks in images 
 ```
-$ python3 detect_mask_image.py --image images/pic1.jpeg
+$ python3 mask_detector_webcam_py.py --image images/pic1.jpeg
 ```
 
 3. Detection in real-time video streams
 ```
-$ python3 detect_mask_video.py 
+$ python3 mask_detector_webcam_py 
 ```
 ## Results
 
