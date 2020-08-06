@@ -51,7 +51,7 @@ $ python3 mask_detector_webcam_py
 Feel free to **file a new issue** with a respective title and description on the the [Face-Mask-Detection](https://github.com/chandrikadeb7/Face-Mask-Detection/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
 
 ## Owner
-Made by [Jae Hwa Jung, Samuel](https://github.com/samjung68) (samjung00@naver.com)
+Made by [Jae Hwa, Samuel Jung](https://github.com/samjung68) (samjung00@naver.com)
 
 ## Credits
 * [⁠https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/)
