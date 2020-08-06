@@ -16,8 +16,8 @@ The COVID-19 mask detector we’re building here today could potentially be used
 - [Keras](https://keras.io/)
 - [TensorFlow](https://www.tensorflow.org/)
 
-## :file_folder: Dataset
-The dataset we’ll be using here today was created by PyImageSearch reader Prajna Bhandary.
+## Dataset
+The dataset we’ll be using here today was created by PyImageSearch reader [Prajna Bhandary](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6655711815361761280/).
 
 This dataset consists of __3835 images__ belonging to two classes:
 *	__with_mask: 1916 images__
