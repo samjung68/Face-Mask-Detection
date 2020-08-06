@@ -16,6 +16,13 @@ The COVID-19 mask detector we’re building here today could potentially be used
 - [Keras](https://keras.io/)
 - [TensorFlow](https://www.tensorflow.org/)
 
+## :file_folder: Dataset
+The dataset we’ll be using here today was created by PyImageSearch reader Prajna Bhandary.
+
+This dataset consists of __3835 images__ belonging to two classes:
+*	__with_mask: 1916 images__
+*	__without_mask: 1919 images__
+
 ## Working
 
 1. Open terminal. Go into the cloned project directory folder and type the following command:
@@ -41,7 +48,7 @@ $ python3 detect_mask_video.py
 Feel free to **file a new issue** with a respective title and description on the the [Face-Mask-Detection](https://github.com/chandrikadeb7/Face-Mask-Detection/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
 
 ## Owner
-Made by [Jae Hwa Jung, Samuel](https://github.com/samjung68)
+Made by [Jae Hwa Jung, Samuel](https://github.com/samjung68) (samjung00@naver.com)
 
 ## Credits
 * [⁠https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/)
