@@ -16,6 +16,10 @@ The COVID-19 mask detector we’re building here today could potentially be used
 - [Keras](https://keras.io/)
 - [TensorFlow](https://www.tensorflow.org/)
 
+## :key: Prerequisites
+
+All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/requirements.txt)
+
 ## Dataset
 
 The dataset used can be downloaded here - [Click to Download](https://drive.google.com/drive/folders/1I8FtAT-Ozpk_wg813R1z5C80oth6Jtwt?usp=sharing)
