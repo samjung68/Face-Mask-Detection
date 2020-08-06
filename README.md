@@ -57,6 +57,9 @@ Made by [Jae Hwa Jung, Samuel](https://github.com/samjung68) (samjung00@naver.co
 * [⁠https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/)
 * [https://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_Image_Object_Detection_Face_Detection_Haar_Cascade_Classifiers.php](https://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_Image_Object_Detection_Face_Detection_Haar_Cascade_Classifiers.php)
 * [http://datahacker.rs/001-how-to-read-a-video-and-access-a-webcam-with-opencv-in-python/](http://datahacker.rs/001-how-to-read-a-video-and-access-a-webcam-with-opencv-in-python/)
+* [https://www.dlology.com/blog/how-to-do-hyperparameter-search-with-baysian-optimization-for-keras-model/](https://www.dlology.com/blog/how-to-do-hyperparameter-search-with-baysian-optimization-for-keras-model/)
+⁠
+
 
 ## License
 MIT © [Samuel Jung](https://github.com/samjung68/Face-Mask-Detection/blob/master/LICENSE)
