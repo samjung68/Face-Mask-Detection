@@ -65,8 +65,6 @@ Made by [Jae Hwa, Samuel Jung](https://github.com/samjung68) (samjung00@naver.co
 * [http://datahacker.rs/001-how-to-read-a-video-and-access-a-webcam-with-opencv-in-python/](http://datahacker.rs/001-how-to-read-a-video-and-access-a-webcam-with-opencv-in-python/)
 * [https://www.dlology.com/blog/how-to-do-hyperparameter-search-with-baysian-optimization-for-keras-model/](https://www.dlology.com/blog/how-to-do-hyperparameter-search-with-baysian-optimization-for-keras-model/)
 ⁠
-
-
 ## License
 MIT © [Jae Hwa, Samuel Jung](https://github.com/samjung68/Face-Mask-Detection/blob/master/LICENSE)
 
