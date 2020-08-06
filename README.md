@@ -41,7 +41,7 @@ $ python3 mask_detector_webcam_py
 ```
 ## Results
 
-#### We got the following accuracy/loss training curve plot
+- We got the following accuracy/loss training curve plot
 ![](https://github.com/samjung68/Face-Mask-Detection/blob/master/loss_graph.png)
 
 ## Contribution
