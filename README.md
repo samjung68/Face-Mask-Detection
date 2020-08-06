@@ -62,5 +62,5 @@ Made by [Jae Hwa Jung, Samuel](https://github.com/samjung68) (samjung00@naver.co
 
 
 ## License
-MIT © [Samuel Jung](https://github.com/samjung68/Face-Mask-Detection/blob/master/LICENSE)
+MIT © [Jae Hwa, Samuel Jung](https://github.com/samjung68/Face-Mask-Detection/blob/master/LICENSE)
 
